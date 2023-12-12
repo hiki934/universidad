@@ -1,0 +1,1 @@
+En estos repositorios se encuentra los scrips del curso de arquitectura de computadoras.
