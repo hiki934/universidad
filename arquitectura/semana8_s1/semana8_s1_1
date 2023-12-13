@@ -1,4 +1,4 @@
-#include <arduimo.h> 
+#include <iostream>
 
 int POT = A0;
 Servo servo;
