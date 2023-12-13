@@ -2,7 +2,7 @@
 
 int LED_RED = 3;
 int LED_BLUE = 5;
-int LED_GREEN = 6;
+int LED_GREEN = 6; 
 int BUTTON = 2;
 
 int indice = 0;
