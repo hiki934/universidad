@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int LEDS[3] = {33, 32, 27};
 int POT = 34;
 
