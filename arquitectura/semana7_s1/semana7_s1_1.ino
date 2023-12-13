@@ -1,4 +1,4 @@
-#include <Arduino.h>
+#include <arduimo.h> 
 
 int LEDS[3] = {33, 32, 27};
 int POT = 34;
