@@ -1,7 +1,7 @@
 package java;
 import java.util.Scanner;
 
-public class texto {
+public class example {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
           System.out.print("Ingrese un número: ");
