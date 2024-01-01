@@ -1,3 +1,4 @@
+#include <arduimo.h> 
 int sensor = A0;
 int led1 = 11;
 

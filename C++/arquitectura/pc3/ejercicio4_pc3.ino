@@ -1,5 +1,5 @@
 #include <Servo.h>
-
+#include <arduimo.h> 
 int LED1 = 2;
 int LED2 = 3;
 

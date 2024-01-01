@@ -1,4 +1,5 @@
 #include<iostream>
+#include <arduimo.h> 
 
 const int umbral;
 int LDR = A0;

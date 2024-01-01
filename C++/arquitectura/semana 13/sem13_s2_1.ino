@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-
+#include <arduimo.h> 
 SoftwareSerial serial1(4,3);
 
 char estado;

@@ -1,4 +1,5 @@
 #include <Servo.h>
+#include <arduimo.h> 
 
 long lastServo1 = 0;
 

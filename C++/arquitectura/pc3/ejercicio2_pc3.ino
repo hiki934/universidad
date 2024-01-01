@@ -1,7 +1,7 @@
 #include <Key.h>
 #include <Keypad.h>
 #include <Servo.h>
-
+#include <arduimo.h> 
 // number of rows and columns
 const byte rows = 4;
 const byte cols = 4;

@@ -1,3 +1,4 @@
+#include <arduimo.h> 
 int RED = 6;
 int GREEN = 10;
 int BLUE = 9;

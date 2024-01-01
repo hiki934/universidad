@@ -1,5 +1,5 @@
 #include <Servo.h>
-
+#include <arduimo.h> 
 int sensor = A0;
 
 Servo servo;

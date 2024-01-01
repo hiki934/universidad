@@ -1,3 +1,4 @@
+#include <arduimo.h> 
 int leds[5]= {2,8,3,5,6};
 int POT = A0;
 
