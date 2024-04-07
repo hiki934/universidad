@@ -1,3 +1,4 @@
+package taller_java.tarea_1;
 public class Equipo {
     private ArrayList<Jugador> listaJugadores;
 
